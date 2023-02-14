@@ -31,6 +31,9 @@ compile it and select the right board and partition scheme and then select the r
 As I personally work on platform.io cause it is too handy and easy to use as it is the extension of VS studio code so first thing first follows the link to install the platform.io properly.
 
 
+# schimetric
+![alt text](https://github.com/hiibrarahmad/-FYPesp32homemoduleFINAL/blob/master/Schematic_ESP32HOME%20MODULE_2023-02-13.png?raw=true)
+
 
 ### !!! PLEASE READ "QUICK START" AND "USER GUIDE" BEFORE !!!
 
